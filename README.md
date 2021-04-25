@@ -1,1 +1,5 @@
-# Insurance-Claims-Prediction
+An insurance company is having complains from customers about how long it takes to get a total claim amount. Many customers allege that it takes quite a long time before their claim is approved, and some were not satisfied with the amount they got. The company needs a faster method of estimating customer claim amount. Therefore a model is created based on provided features such as 'Customer_ID', 'months_as_customer', 'age', 'insured_sex', 'insured_education_level', 'insured_occupation', 'insured_hobbies', 'insured_relationship', 'capital-gains', 'capital-loss', 'policy_number', 'policy_bind_date', 'policy_state', 'policy_csl', 'policy_deductable', 'incident_location', 'incident_hour_of_the_day', 'number_of_vehicles_involved', 'property_damage', 'bodily_injuries', 'policy_annual_premium', 'umbrella_limit', 'insured_zip', 'incident_date', 'incident_type', 'collision_type', 'incident_severity', 'authorities_contacted', 'incident_state', 'incident_city', 'witnesses', 'police_report_available', 'auto_make', 'auto_model', 'auto_year', '_c39', 'total_claim_amount'
+
+Through this features, a model is created to predict the total claim amount for each customer
+
+A link to the dataset can be found https://www.kaggle.com/c/data-science-nigeria-insurance-claims-competition/overview. 
